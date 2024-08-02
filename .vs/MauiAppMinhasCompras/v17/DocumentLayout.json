@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinicius.santos\\source\\repos\\mauiappminhascompras\\mauiappminhascompras\\views\\listaproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\views\\listaproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinicius.santos\\source\\repos\\mauiappminhascompras\\mauiappminhascompras\\views\\novoproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\views\\novoproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinicius.santos\\source\\repos\\mauiappminhascompras\\mauiappminhascompras\\views\\editarproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\views\\editarproduto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinicius.santos\\source\\repos\\mauiappminhascompras\\mauiappminhascompras\\helpers\\sqlitedatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\helpers\\sqlitedatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|c:\\users\\vinicius.santos\\source\\repos\\mauiappminhascompras\\mauiappminhascompras\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6459ADD-A151-44A4-94E4-E3EF2FB98829}|MauiAppMinhasCompras\\MauiAppMinhasCompras.csproj|solutionrelative:mauiappminhascompras\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaProduto.xaml",
+              "DocumentMoniker": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\ListaProduto.xaml",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Views\\ListaProduto.xaml",
+              "ToolTip": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\ListaProduto.xaml",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Views\\ListaProduto.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T20:02:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NovoProduto.xaml",
+              "DocumentMoniker": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\NovoProduto.xaml",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Views\\NovoProduto.xaml",
+              "ToolTip": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\NovoProduto.xaml",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Views\\NovoProduto.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T20:01:55.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarProduto.xaml",
+              "DocumentMoniker": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\EditarProduto.xaml",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Views\\EditarProduto.xaml",
+              "ToolTip": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Views\\EditarProduto.xaml",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Views\\EditarProduto.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T20:01:31.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLiteDatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Helpers\\SQLiteDatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:59:42.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "MauiAppMinhasCompras\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\vinicius.santos\\source\\repos\\MauiAppMinhasCompras\\MauiAppMinhasCompras\\Models\\Produto.cs",
+              "RelativeToolTip": "MauiAppMinhasCompras\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:58:26.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
